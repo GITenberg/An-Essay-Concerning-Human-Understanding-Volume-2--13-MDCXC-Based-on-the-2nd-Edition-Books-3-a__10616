@@ -1,6 +1,9 @@
 _repo: An-Essay-Concerning-Human-Understanding-Volume-2--13-MDCXC-Based-on-the-2nd-Edition-Books-3-a__10616
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Essay Concerning Humane Understanding
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Locke, John
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2447
     wikipedia: http://en.wikipedia.org/wiki/John_Locke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10616#An-Essay-Concerning-Human-Understanding-Volume-2--13-MDCXC-Based-on-the-2nd-Edition-Books-3-a_
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
