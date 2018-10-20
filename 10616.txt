@@ -13,6 +13,7 @@ Title: An Essay Concerning Humane Understanding, Volume II.
 Author: John Locke
 
 Release Date: January 6, 2004 [EBook #10616]
+Last Updated: January 31, 2018
 
 Language: English
 
@@ -454,7 +455,7 @@ denominations.
 5. What things have proper Names, and why.
 
 Besides persons, countries also, cities, rivers, mountains, and other
-the like distinctions of lace have usually found peculiar names, and
+the like distinctions of place have usually found peculiar names, and
 that for the same reason; they being such as men have often as occasion
 to mark particularly, and, as it were, set before others in their
 discourses with them. And I doubt not but, if we had reason to mention
@@ -2872,7 +2873,7 @@ denomination, which others know nothing of.
 49. Therefore to fix the Nominal Species Real Essence supposed.
 
 To avoid this therefore, they have supposed a real essence belonging to
-every species, from which these proper ties all flow, and would have
+every species, from which these properties all flow, and would have
 their name of the species stand for that. But they, not having any idea
 of that real essence in substances, and their words signifying nothing
 but the ideas they have, that which is done by this attempt is only to
@@ -3887,7 +3888,7 @@ words there much more obscure, uncertain, and undetermined in their
 meaning, than they are in ordinary conversation.
 
 
-7. Logic and Dispute have must have contributed to this.
+7. Logic and Dispute have much contributed to this.
 
 This is unavoidably to be so, where men's parts and learning are
 estimated by their skill in disputing. And if reputation and reward
@@ -4250,7 +4251,7 @@ in discourses and reasonings about them, and be a great inconvenience in
 our communication by words.
 
 
-22. VI. Sixthly, by proceeding upon the supposition that the WOrds we
+22. VI. Sixthly, by proceeding upon the supposition that the words we
 use have a certain and evident Signification which other men cannot but
 understand.
 
@@ -6845,7 +6846,7 @@ that exactly practises his rules, and lives up to that pattern of a
 virtuous man which he has given us, and which existed nowhere when he
 writ but in idea. If it be true in speculation, i.e. in idea, that
 murder deserves death, it will also be true in reality of any action
-that exists conformable to BOOK IV. that idea of murder. As for other
+that exists conformable to that idea of murder. As for other
 actions, the truth of that proposition concerns them not. And thus it is
 of all other species of things, which have no other essences but those
 ideas which are in the minds of men.
@@ -7460,7 +7461,7 @@ quality is in gold, when we know not what is or is not gold? Since in
 this way of speaking, nothing is gold but what partakes of an essence,
 which we, not knowing, cannot know where it is or is not, and so cannot
 be sure that any parcel of matter in the world is or is not in this
-sense gold; being incurably ignorant whether IT has of has not that
+sense gold; being incurably ignorant whether IT has or has not that
 which makes anything to be called gold; i. e. that real essence of gold
 whereof we have no idea at all. This being as impossible for us to know
 as it is for a blind man to tell in what flower the colour of a pansy is
@@ -8605,11 +8606,11 @@ hunger, or a man's understanding, and they would have improved in
 knowledge and bulk together.
 
 
-4. Secondly, Propositions in which apart of any complex Idea is
+4. Secondly, Propositions in which a part of any complex Idea is
 predicated of the Whole.
 
 II. Another sort of trifling propositions is, WHEN A PART OF THE
-COMPLEXIDEA IS PREDICATED OF THE NAME OF THE WHOLE; a part of the
+COMPLEX IDEA IS PREDICATED OF THE NAME OF THE WHOLE; a part of the
 definition of the word defined. Such are all propositions wherein the
 genus is predicated of the species, or more comprehensive of less
 comprehensive terms. For what information, what knowledge, carries this
@@ -8926,8 +8927,8 @@ beyond the liberty of doubting, viz. that he is SOMETHING THAT ACTUALLY
 EXISTS.
 
 
-3. He knows also that Nothing cannot produce a Being; there ore
-SOmething must have existed from Eternity.
+3. He knows also that Nothing cannot produce a Being; therefore
+Something must have existed from Eternity.
 
 In the next place, man knows, by an intuitive certainty, that bare
 NOTHING CAN NO MORE PRODUCE ANY REAL BEING, THAN IT CAN BE EQUAL TO TWO
@@ -9429,7 +9430,7 @@ roses in the winter: but we see nobody gets the relish of a pineapple,
 till he goes to the Indies, where it is, and tastes it.
 
 
-5. II. Secondly, Because we find that an Idea from actual Sensatio, and
+5. II. Secondly, Because we find that an Idea from actual Sensation, and
 another from memory, are very distinct Perceptions.
 
 Because sometimes I find that I CANNOT AVOID THE HAVING THOSE IDEAS
@@ -9672,7 +9673,7 @@ propositions depends on the agreement or disagreement to be discovered
 in those abstract ideas.
 
 
-14. And all general Propositions that are know to be true concern
+14. And all general Propositions that are known to be true concern
 abstract Ideas.
 
 In the former case, our knowledge is the consequence of the existence
